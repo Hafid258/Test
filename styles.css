@@ -1,0 +1,16 @@
+/* styles.css */
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    color: #ff6f61;
+    animation: bounce 1s infinite;
+}
