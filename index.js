@@ -8,12 +8,11 @@ app.get('/', (req, res) => {
 });
 
 app.get('/hello-word', (req, res) => {
-    res.send('Hello World! <br>Surakiert Namsi <br> Anussara Khongthong');
-
+    res.send('Hello World!');
 });
 
 app.get('/S-A', (req, res) => {
-    res.send('Surakiert Namsi <br> Anussara Khongthong');
+    res.send('Surakiert Namsi 6504305001340<br> Anussara Khongthong 6504305001343');
 
 });
 
