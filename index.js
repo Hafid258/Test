@@ -12,7 +12,7 @@ app.get('/hello-word', (req, res) => {
 });
 
 app.get('/S-A', (req, res) => {
-    res.send('Surakiert Namsi 6504305001340<br> Anussara Khongthong 6504305001343');
+    res.send('สุรเกียรติ น้ำใส 6504305001340<br> Anussara Khongthong 6504305001343');
 
 });
 
